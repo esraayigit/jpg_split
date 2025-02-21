@@ -1,2 +1,2 @@
 # jpg_split
-Kaggle'dan almış olduğum drone datasetini images ve label olarak 2 ayrı klasöre bölmek için hazırladığım python kodu.
+Bu Python kodu, Kaggle'da bulduğum bir veri setiyle ilgilidir. Veri seti etiketlenmişti ancak resim verileri (.jpg) ve etiket metin dosyaları (.txt) aynı dizinde bulunuyordu. Bu karışıklığı gidermek ve verileri uygun şekilde düzenlemek amacıyla, görüntü dosyalarını images ve etiket dosyalarını labels isimli iki ayrı dizine ayıran bir Python kodu yazdım.
